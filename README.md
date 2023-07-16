@@ -1,1 +1,2 @@
-# palindrome-checker
+# Palindrome Checker
+A palindrome checker function
